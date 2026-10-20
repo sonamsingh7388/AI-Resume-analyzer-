@@ -1,0 +1,32 @@
+PRIYA SHARMA, Ph.D.
+New York, NY | (212) 555-0194 | priya.sharma@mlresearch.io | linkedin.com/in/priyasharma-ds | github.com/priyasharma
+
+PROFESSIONAL SUMMARY
+Lead Data Scientist and Machine Learning Researcher with 6+ years of experience delivering scalable AI solutions. Specialized in Deep Learning, Natural Language Processing, LLMs, PyTorch, and predictive analytics. Designed and deployed enterprise models resulting in $1.8M annual cost savings.
+
+CORE COMPETENCIES & SKILLS
+Languages & Querying: Python, SQL, R, Bash, C++
+Machine Learning & AI: PyTorch, TensorFlow, Scikit-Learn, Deep Learning, NLP, Generative AI, LLMs, Transformers
+Data & Pipelines: Pandas, NumPy, Apache Spark, BigQuery, Snowflake, Vector Databases, ChromaDB, ETL
+MLOps & Cloud: Docker, Kubernetes, MLflow, AWS, GCP, CI/CD, Git, Linux
+
+PROFESSIONAL EXPERIENCE
+Lead Data Scientist | Quantum Insights Corp | New York, NY
+2021 - Present
+• Architected and deployed an enterprise NLP classification engine using PyTorch and Transformers, achieving 94.6% F1-score.
+• Spearheaded end-to-end MLOps pipeline migration with MLflow and Docker on AWS, reducing model retraining latency by 65%.
+• Engineered customer lifetime value predictive models on BigQuery, directly driving an $850K revenue increase in Q3 2023.
+• Led a team of 4 data scientists and machine learning engineers, mentoring on experimental design and A/B testing rigor.
+
+Senior Machine Learning Engineer | DataVision Labs | Boston, MA
+2018 - 2021
+• Developed real-time anomaly detection pipelines processing over 25M daily transactions with Scikit-Learn and Apache Spark.
+• Slashed false-positive fraud alerts by 38%, saving 250+ analyst review hours per month.
+• Collaborated with engineering stakeholders to containerize models with Docker and integrate with production REST APIs.
+
+EDUCATION
+Doctor of Philosophy (Ph.D.) in Machine Learning & Computer Science
+Columbia University | New York, NY | Graduated 2018
+
+Bachelor of Science in Statistics and Mathematics
+Cornell University | Ithaca, NY | Graduated 2014

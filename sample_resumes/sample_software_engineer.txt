@@ -1,0 +1,34 @@
+ALEX RIVERA
+San Francisco, CA | (555) 382-9102 | alex.rivera@email.com | linkedin.com/in/alexrivera-dev | github.com/alexrivera
+
+PROFESSIONAL SUMMARY
+Senior Full-Stack Engineer with 5+ years of experience designing and scaling high-availability microservices and responsive web applications. Expert in Python, FastAPI, TypeScript, React, PostgreSQL, and AWS. Demonstrated track record of reducing latency by 45% and leading engineering pods to on-time product releases.
+
+TECHNICAL SKILLS
+Languages: Python, JavaScript, TypeScript, SQL, HTML5, CSS3, Go
+Frontend: React, Next.js, Redux Toolkit, Tailwind CSS, Responsive Design
+Backend: FastAPI, Django, Node.js, Express.js, REST API, GraphQL, WebSockets
+Cloud & DevOps: AWS, Docker, Kubernetes, CI/CD, GitHub Actions, Terraform, Linux
+Databases: PostgreSQL, Redis, MongoDB, SQLAlchemy
+Methodologies: Agile, Scrum, TDD, Clean Architecture, System Design
+
+WORK EXPERIENCE
+Senior Software Engineer | NovaTech Solutions | San Francisco, CA
+June 2022 - Present
+• Architected and deployed 14 high-throughput microservices using FastAPI and Docker, handling 18,000 requests/sec with 99.98% uptime.
+• Spearheaded database re-indexing and caching layer using Redis and PostgreSQL, slashing p99 API response times by 48%.
+• Built dynamic analytics dashboards in React and TypeScript, increasing active user engagement by 32% across 85,000 business accounts.
+• Mentored 5 junior engineers and established automated CI/CD deployment pipelines using GitHub Actions, cutting release cycles from 3 hours to 15 minutes.
+
+Software Engineer | CloudScale Systems | Austin, TX
+August 2019 - May 2022
+• Engineered robust RESTful APIs in Django and Python that processed over $4.2M in annual recurring transactions.
+• Migrated legacy monolithic services to containerized Kubernetes deployments on AWS EKS, reducing cloud infrastructure spend by 28%.
+• Authored comprehensive unit and integration test suites with PyTest, elevating overall test coverage from 62% to 94%.
+
+KEY PROJECTS
+• PulseStream AI: Built a real-time analytics streaming engine using Python, WebSockets, and Redis, serving 50,000 events/minute.
+• DevSync: Developed a developer collaboration platform using Next.js, TypeScript, and PostgreSQL with 4,000+ GitHub stars.
+
+EDUCATION
+Bachelor of Science in Computer Science | University of Texas at Austin | Graduated 2019
